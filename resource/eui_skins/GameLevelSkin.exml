@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin class="GameLevelSkin" width="720" height="1136" xmlns:e="http://ns.egret.com/eui" xmlns:ns1="*">
+	<e:Scroller percentWidth="100" percentHeight="100" horizontalCenter="0" verticalCenter="0">
+		<e:Group id="levelGrp">
+		</e:Group>
+	</e:Scroller>
+	<e:Button id="returnBtn" right="20" bottom="20">
+		<e:skinName>
+			<e:Skin states="up,down,disabled">
+			    <e:Image source="BackBtn_png" source.down="BackBtn1_png"/>
+			</e:Skin>
+		</e:skinName>
+	</e:Button>
+</e:Skin>

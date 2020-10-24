@@ -1,0 +1,12 @@
+{
+	"autoGenerateExmlsList": true,
+	"exmls": [
+		"resource/eui_skins/GameLevelSkin.exml",
+		"resource/eui_skins/GameSceneSkin.exml",
+		"resource/eui_skins/GameSettingSkin.exml",
+		"resource/eui_skins/GameStartSkin.exml",
+		"resource/eui_skins/LevelIconSkin.exml",
+		"resource/eui_skins/WordSkin.exml"
+	],
+	"path": "resource/default.thm.json"
+}
